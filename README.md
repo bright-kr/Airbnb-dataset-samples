@@ -2,7 +2,7 @@
 
 <h2>1001개의 Airbnb 숙소 리스팅으로 구성된 샘플 データセット</h2>
 
-![Airbnb dataset header](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
+![Airbnb dataset header](https://github.com/bright-kr/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
 
 1000개 이상의 숙소 리스팅으로 구성된 Airbnb データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
@@ -44,7 +44,7 @@
 <b>[전체 Airbnb データセット 받기](https://brightdata.co.kr/products/datasets/airbnb)</b>.
 
 
-![Airbnb dataset visual](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
+![Airbnb dataset visual](https://github.com/bright-kr/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
 
 <h2>Airbnb データセット의 활용 사례는 무엇입니까?</h2>
 
