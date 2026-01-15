@@ -1,12 +1,12 @@
 # Airbnb 데이터셋 샘플
 
-<h2>1001개의 Airbnb 숙소 리스팅으로 구성된 샘플 データセット</h2>
+<h2>1001개의 Airbnb 숙소 리스팅으로 구성된 샘플 데이터셋</h2>
 
 ![Airbnb dataset header](https://github.com/bright-kr/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
 
-1000개 이상의 숙소 리스팅으로 구성된 Airbnb データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
+1000개 이상의 숙소 리스팅으로 구성된 Airbnb 데이터셋 샘플입니다. 데이터셋는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
-<h2>이 무료 データセット에 포함된 데이터 포인트:</h2>
+<h2>이 무료 데이터셋에 포함된 데이터 포인트:</h2>
 
 * ```property_id```: Airbnb의 숙소 리스팅에 대한 고유 식별자입니다
 * ```name```: Airbnb 숙소 리스팅의 제목 또는 이름입니다
@@ -30,23 +30,23 @@
 
 그 외에도 훨씬 더 많은 항목이 포함됩니다.
 
-이는 "Airbnb Properties Information (public data)" データセット에서 파생된 샘플 서브셋이며,
-이 データセット에는 <b>11,000,000개 이상의 companies</b>가 포함됩니다.
+이는 "Airbnb Properties Information (public data)" 데이터셋에서 파생된 샘플 서브셋이며,
+이 데이터셋에는 <b>11,000,000개 이상의 companies</b>가 포함됩니다.
 
-사용 가능한 データセット 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일을 .gz로 압축할 수 있습니다</b>.
+사용 가능한 데이터셋 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일을 .gz로 압축할 수 있습니다</b>.
 
-データセット 전달 방식 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+데이터셋 전달 방식 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 업데이트 빈도: <b>Once, Daily, Weekly, Monthly, Quarterly, 또는 Custom basis</b>.
 
 추출된 데이터 포인트에 추가로 제공 가능한 데이터 강화: <b>요청 기반.</b>
 
-<b>[전체 Airbnb データセット 받기](https://brightdata.co.kr/products/datasets/airbnb)</b>.
+<b>[전체 Airbnb 데이터셋 받기](https://brightdata.co.kr/products/datasets/airbnb)</b>.
 
 
 ![Airbnb dataset visual](https://github.com/bright-kr/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
 
-<h2>Airbnb データセット의 활용 사례는 무엇입니까?</h2>
+<h2>Airbnb 데이터셋의 활용 사례는 무엇입니까?</h2>
 
 <h3>1. 경쟁사 모니터링</h3>
 
@@ -60,6 +60,6 @@
 
 Airbnb에서 인기 있는 목적지와 새로 등록된 숙소를 발굴하여 업계 트렌드를 선도합니다. Airbnb 데이터를 활용해 심층 시장 분석을 수행하고, 머신러닝 이니셔티브를 추진하며, 혁신적인 오퍼링을 기획합니다.
 
-<h2>학술 연구자 및 NGO를 위한 Webスクレイピング 도구와 データセット 무료 이용</h2>
+<h2>학술 연구자 및 NGO를 위한 Web스크레이핑 도구와 데이터셋 무료 이용</h2>
 
-Bright Initiative는 다양한 환경 및 사회적 목적을 촉진하는 주요 학술 단과대학과 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b> 및 <b>[바로 사용 가능한 データセット](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
+Bright Initiative는 다양한 환경 및 사회적 목적을 촉진하는 주요 학술 단과대학과 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b> 및 <b>[바로 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
